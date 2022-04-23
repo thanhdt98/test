@@ -1,2 +1,3 @@
 this is init master branch
 fr ubuntu update 1
+fr win update 2
